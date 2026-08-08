@@ -17,7 +17,7 @@ Busco oportunidades para atuar como Administrador Salesforce, contribuindo com a
 
 🎓 Formação: Administração Salesforce – Corporação Salesforce | Analista de Dados – EBAC
 
-✉️ Contato: contato_jefferson@outlook.com
+✉️ Contato: contato.jeffersonbj@outlook.com
 
 <!-- formatação das imagens para redes sociais e contatos -->
 <p align="left">
