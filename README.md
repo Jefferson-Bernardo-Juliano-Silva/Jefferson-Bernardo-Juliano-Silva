@@ -1,7 +1,7 @@
 <!-- cabeçalho -->
 ## 👨‍💻 Jefferson Bernardo
 
-**`Analista de Dados`**
+**`Administrador de Dados`**
 
 Atuo com Salesforce e análise de dados, com foco em automação de processos, organização de informações e apoio à tomada de decisão. Trabalho na criação de orgs, configuração de objetos, campos e relacionamentos, além do desenvolvimento de fluxos (Flows) para tornar processos mais eficientes e estruturados.
 
