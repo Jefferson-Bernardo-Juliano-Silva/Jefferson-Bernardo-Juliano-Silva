@@ -28,14 +28,14 @@ Busco oportunidades para atuar como Administrador Salesforce, contribuindo com a
             src="https://custom-icon-badges.demolab.com/badge/-17--99247--2689-red?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jefferson-bernardo-85a755127/">
+    <a href="https://www.linkedin.com/in/jefferson-bernardo-juliano/">
         <img 
             alt="linkedin" 
             title="Siga meu linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin Jefferson Bernardo-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
-   <a href="https://github.com/Jefferson-Bernardo-Juliano?tab=followers">
+   <a href="https://github.com/Jefferson-Bernardo-Juliano-Silva?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
